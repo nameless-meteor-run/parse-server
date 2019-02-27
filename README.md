@@ -13,7 +13,7 @@
 [![](https://img.shields.io/badge/mongodb-3.6-green.svg?logo=mongodb&style=flat)]()
 [![](https://img.shields.io/badge/mongodb-4.0-green.svg?logo=mongodb&style=flat)]()
 
-Parse Server is an [open source version of the Parse backend](http://blog.parseplatform.org/announcements/introducing-parse-server-and-the-database-migration-tool/) that can be deployed to any infrastructure that can run Node.js.
+The Parse Server is an [open source version of the Parse backend](http://blog.parseplatform.org/announcements/introducing-parse-server-and-the-database-migration-tool/) that can be deployed to any infrastructure that can run Node.js.
 
 Parse Server works with the Express web application framework. It can be added to existing web applications, or run by itself.
 
